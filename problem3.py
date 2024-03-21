@@ -1,0 +1,6 @@
+x=input()
+x=x.split(",")
+a=list(x)
+b=tuple(x)
+print(a)
+print(b)
