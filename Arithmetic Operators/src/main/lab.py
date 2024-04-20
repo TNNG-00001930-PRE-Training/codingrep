@@ -1,5 +1,7 @@
 
 """
+    Arithmetic operations
+    
     A class representing arithmetic operations.
 
      Let's say we're making a calculator app!
